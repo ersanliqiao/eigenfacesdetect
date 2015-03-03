@@ -1,0 +1,24 @@
+﻿生成启动时间为 2015/3/1 21:08:48。
+     1>项目“D:\Documents\Visual Studio 2012\Projects\人脸识别\eigenfacesdetect\eigenfacesdetect\eigenfacesdetect.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\eigenfacesdetect.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\documents\visual studio 2012\projects\人脸识别\eigenfacesdetect\eigenfacesdetect\BrowDir.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2012\projects\人脸识别\eigenfacesdetect\eigenfacesdetect\BrowDir.h(43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2012\projects\人脸识别\eigenfacesdetect\eigenfacesdetect\BrowDir.h(44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2012\projects\人脸识别\eigenfacesdetect\eigenfacesdetect\BrowDir.h(45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>main.cpp(36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         D:\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\Visual Studio 2012\Projects\人脸识别\eigenfacesdetect\x64\Debug\eigenfacesdetect.exe" /INCREMENTAL /NOLOGO opencv_core249d.lib opencv_imgproc249d.lib opencv_highgui249d.lib opencv_ml249d.lib opencv_video249d.lib opencv_features2d249d.lib opencv_calib3d249d.lib opencv_objdetect249d.lib opencv_contrib249d.lib opencv_legacy249d.lib opencv_flann249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Documents\Visual Studio 2012\Projects\人脸识别\eigenfacesdetect\x64\Debug\eigenfacesdetect.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\Visual Studio 2012\Projects\人脸识别\eigenfacesdetect\x64\Debug\eigenfacesdetect.lib" /MACHINE:X64 x64\Debug\BrowDir.obj
+         x64\Debug\main.obj
+         eigenfacesdetect.vcxproj -> D:\Documents\Visual Studio 2012\Projects\人脸识别\eigenfacesdetect\x64\Debug\eigenfacesdetect.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\eigenfacesdetect.unsuccessfulbuild”。
+         正在对“x64\Debug\eigenfacesdetect.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Documents\Visual Studio 2012\Projects\人脸识别\eigenfacesdetect\eigenfacesdetect\eigenfacesdetect.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.52
